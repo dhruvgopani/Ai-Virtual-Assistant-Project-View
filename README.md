@@ -1,8 +1,10 @@
 # Ai Virtual Assistant 
 
-Try It: 🔗 https://virtualassistant-6jrl.onrender.com  (Recommend Use in Laptop💻, PC) 
+Try It: 🔗 https://virtualassistant-6jrl.onrender.com --- (Recommend Use in Laptop💻, PC) 
 
-#🔔 Note Before Using the Assistant
+---
+
+🔔 Note Before Using the Assistant
 To ensure the AI Virtual Assistant functions properly, please enable the following in your browser:
 
 ✅ Microphone Access:
@@ -17,7 +19,7 @@ Enable third-party cookies in your browser settings for proper speech recognitio
 ✅ Pop-up Permissions:
 Allow pop-ups from the site if the assistant needs to open websites or apps like Google, YouTube, WhatsApp, etc.
 
-#⚠️ If any of these permissions are blocked, the assistant may not be able to listen, speak, or open apps/websites correctly, and some features may not work as expected or properly.
+⚠️ If any of these permissions are blocked, the assistant may not be able to listen, speak, or open apps/websites correctly, and some features may not work as expected or properly.
 
 -----
 
