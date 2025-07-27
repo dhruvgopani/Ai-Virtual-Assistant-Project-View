@@ -1,4 +1,4 @@
-# Ai Virtual Assistant 
+#Ai Virtual Assistant 🤖
 
 Try It: 🔗 https://virtualassistant-6jrl.onrender.com ---> (Recommend Use in Laptop💻, PC) 
 
@@ -44,8 +44,8 @@ A smart, multilingual voice assistant powered by Google Gemini ✨. Understands 
 ## 🛠️ Tech Stack
 
 - **Frontend**: React.js, Tailwind CSS, Web Speech API, Gemini Api
-- **Backend**: Node.js / Express 
-- **AI**: Gemini API (via Gemini Pro model)
+- **Backend**: Node.js / Express.js 
+- **AI**: Gemini API (via Gemini model)
 - **DataBase**: MongoDB
 - **Languages**: JavaScript, JSX, CSS
 
