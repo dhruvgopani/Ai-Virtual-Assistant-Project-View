@@ -52,26 +52,48 @@ A smart, multilingual voice assistant powered by Google Gemini ✨. Understands 
 ---
 
 ## 📷 Screenshots
+
+---
+
 <img width="1920" height="1080" alt="Screenshot (182)" src="https://github.com/user-attachments/assets/d16ca04a-c78d-4829-9947-9e9c4bb26740" />
+
+---
 
 <img width="1920" height="1080" alt="Screenshot (185)" src="https://github.com/user-attachments/assets/ee19df7e-ad2c-4066-b0f0-c022b14c0f9a" />
 
+---
+
 <img width="1920" height="1080" alt="Screenshot (192)" src="https://github.com/user-attachments/assets/74fe8ce0-7bc2-4300-b875-10dcfa13445e" />
+
+---
 
 <img width="1920" height="1080" alt="Screenshot (193)" src="https://github.com/user-attachments/assets/e25486cb-9471-41e4-af3b-8e63a9e4c8f6" />
 
+---
+
 <img width="1920" height="1080" alt="Screenshot (194)" src="https://github.com/user-attachments/assets/baf5b86d-178e-4f52-844e-ce425c57d86b" />
+
+---
 
 <img width="1920" height="1080" alt="Screenshot (195)" src="https://github.com/user-attachments/assets/f8674b3a-5031-4419-b0ca-f56f9a6f4f4d" />
 
+---
+
 <img width="1920" height="1080" alt="Screenshot (196)" src="https://github.com/user-attachments/assets/081de44c-ce75-452c-a15d-36c241cdc9d0" />
+
+---
 
 <img width="1920" height="1080" alt="Screenshot (188)" src="https://github.com/user-attachments/assets/781961a6-7fa1-467e-8058-34019b9a4403" />
 
+---
+
 <img width="298" height="643" alt="image" src="https://github.com/user-attachments/assets/e1265313-dd34-4fc1-9ba8-a2674cd8a2f2" />
 
+---
 
 <img width="304" height="643" alt="Screenshot 2025-07-26 234109" src="https://github.com/user-attachments/assets/9ddae851-7889-4a8c-9610-8e8044d6d8a8" />
+
+---
 
 <img width="288" height="660" alt="image" src="https://github.com/user-attachments/assets/76da9f16-6395-4914-ac0d-ab0854344cad" />
 
