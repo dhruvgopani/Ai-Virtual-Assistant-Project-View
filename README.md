@@ -101,7 +101,8 @@ A smart, multilingual voice assistant powered by Google Gemini ✨. Understands 
 ----
 
 
-⚠️ Predefined Assistant Questions : ( If Assistant Responses: "I'm sorry, I’ve reached my request limit for now. Try again later." ) Then ::
+⚠️ Predefined Assistant Questions : ( If Assistant Responses: "I'm sorry, I’ve reached my request limit for now. Try again later." ) 
+# Then You Can Ask Below Questions 
 
 
 ---
