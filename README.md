@@ -7,10 +7,10 @@ Try It: 🔗 https://virtualassistant-6jrl.onrender.com ---> (Recommend Use in L
 🔔 Note Before Using the Assistant
 To ensure the AI Virtual Assistant functions properly, please enable the following in your browser:
 
-✅ Microphone Access:
+🎙️ Microphone Access:
 Allow microphone access when prompted by the browser.
 
-✅ Sound Settings:
+🔊 Sound Settings:
 Make sure your device and browser sound is turned on and not muted.
 
 ✅ Third-Party Cookies:
